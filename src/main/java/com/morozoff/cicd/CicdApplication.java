@@ -16,11 +16,4 @@ public class CicdApplication {
     public static void main(String[] args) {
         SpringApplication.run(CicdApplication.class, args);
     }
-//    echo "# cicd" >> README.md
-//    git init
-//    git add README.md
-//    git commit -m "first commit"
-//    git branch -M master
-//    git remote add origin git@github.com:smorozov30/cicd.git
-//    git push -u origin master
 }
